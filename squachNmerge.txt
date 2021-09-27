@@ -1,0 +1,4 @@
+Hello I'm squash & merge file
+Add text row 1
+Add text row 2
+Add text row 3
